@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaygadgil1" alt="chinmaygadgil1" /></a> </p>
 
-- 🔭 I’m currently working on **Talenflow.in**
-
-- 🌱 I’m currently learning **Next.js**
-
 - 👯 I’m looking to collaborate on **Full Stack Web Apps**
 
 - 📫 How to reach me **chinmayggadgil@gmail.com**

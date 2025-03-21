@@ -7,7 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
-- 📫 How to reach me **chinmayggadgil@gmail.com** or **chinmay-gadgil.vercel.app**
+- 📫 How to reach me **chinmayggadgil@gmail.com**
+
+<a href="https://chinmay-gadgil.vercel.app">My portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
